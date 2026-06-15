@@ -1,0 +1,51 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+venv.bak/
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Pytest
+.pytest_cache/
+
+# MyPy
+.mypy_cache/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Coverage reports
+.coverage
+.coverage.*
+
+# Serialized models and outputs
+*.pkl
+*.joblib
+
+# Environment variables
+.env
+.env.*
+
+# Byte-compiled
+*.so
