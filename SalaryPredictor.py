@@ -2,13 +2,6 @@
 # coding: utf-8
 
 # In[1]:
-
-
-import os
-os.chdir(r"C:\Users\sathu\Projects")
-print(os.getcwd())
-
-
 # - Step-1: Load the data set(already stored in the files as CSV)
 # - Step-2: Inspect the dataset
 # - Step-3: Separate Input and Output
